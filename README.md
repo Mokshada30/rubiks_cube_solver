@@ -1,6 +1,6 @@
 
-# CUBIX 🧊
-## Rubik's Cube Solver 
+# "CUBIX" 🧊
+# Rubik's Cube Solver 
 
 A C++ project to scan, represent, and solve a Rubik’s Cube using multiple solver algorithms and efficient cube representations. This project includes a real-time camera scanner, various cube representations, and multiple solving strategies, including the IDA* solver using Korf’s Algorithm.
 
@@ -71,14 +71,13 @@ Ensure good lighting for accurate scanning.
 
 Example Scrambled Cube Screenshots:
 
-<img src="C:\Users\malim\OneDrive\Pictures\Screenshots\Screenshot 2025-08-16 184508.png"/>
-
-<img src="C:\Users\malim\OneDrive\Pictures\Screenshots\Screenshot 2025-08-16 190031.png"/>
+![Scrambled Cube Entry](screenshots/screenshot1.png)
+![Scrambled Cube Captured](screenshots/screenshot 2.png)
 
 ### 2. Local Output
 
- <img src="C:\Users\malim\OneDrive\Pictures\Screenshots\Screenshot 2025-08-16 181059.png"/>
-<img src="C:\Users\malim\OneDrive\Pictures\Screenshots\Screenshot 2025-08-16 190118.png"/>
+![Output](screenshots/screenshot 3.png)
+![Output continued](screenshots/screenshot 4.png)
 
 #### 🗂 Database & Pattern Files
 
