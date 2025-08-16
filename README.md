@@ -73,11 +73,11 @@ Example Scrambled Cube Screenshots:
 
 ![Scrambled Cube Entry](screenshots/Screenshot1.png)
 
-![Scrambled Cube Captured](screenshots/Screenshot 2.png)
+![Scrambled Cube Captured](screenshots/Screenshot2.png)
 
 ### 2. Local Output
 
-![Output](screenshots/Screenshot 3.png)
+![Output](screenshots/Screenshot3.png)
 
 ![Output continued](screenshots/Screenshot 4.png)
 
