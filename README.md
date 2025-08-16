@@ -71,15 +71,15 @@ Ensure good lighting for accurate scanning.
 
 Example Scrambled Cube Screenshots:
 
-![Scrambled Cube Entry](screenshots/screenshot1.png)
+![Scrambled Cube Entry](screenshots/Screenshot1.png)
 
-![Scrambled Cube Captured](screenshots/screenshot 2.png)
+![Scrambled Cube Captured](screenshots/Screenshot 2.png)
 
 ### 2. Local Output
 
-![Output](screenshots/screenshot 3.png)
+![Output](screenshots/Screenshot 3.png)
 
-![Output continued](screenshots/screenshot 4.png)
+![Output continued](screenshots/Screenshot 4.png)
 
 #### 🗂 Database & Pattern Files
 
