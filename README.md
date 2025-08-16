@@ -79,7 +79,7 @@ Example Scrambled Cube Screenshots:
 
 ![Output](screenshots/Screenshot3.png)
 
-![Output continued](screenshots/Screenshot 4.png)
+![Output continued](screenshots/Screenshot4.png)
 
 #### 🗂 Database & Pattern Files
 
