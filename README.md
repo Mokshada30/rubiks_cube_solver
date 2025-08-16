@@ -93,7 +93,7 @@ Database file example: Databases/cornerDepth5V1.txt
 
 Clone repository:
 
-git clone https://github.com/Mokshada30/rubiks_cube_solver.git
+git clone https://github.com/Mokshada30/CUBIX--rubiks_cube_solver.git
 
 
 Build with CMake in CLion or terminal.
